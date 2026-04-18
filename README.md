@@ -1,4 +1,4 @@
-# Web Basic
+# Web Basics
 I build small projects to practice and improve my web fundamentals.
 
 ## 📂Folder Structure
